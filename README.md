@@ -66,9 +66,6 @@ Example response:
 - For production: use a process manager, pin model versions, and consider batching/model servers.  
 - Use `HUGGINGFACE_TOKEN` for private models.
 
-## License & Contact
-- Suggested license: MIT  
-- Add name / email / GitHub as needed.
 
 
 
